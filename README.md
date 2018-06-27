@@ -1,5 +1,5 @@
 # After my changes(IIpepeII)
-![screenshot of my changes](https://raw.githubusercontent.com/IIpepeII/agnoster-zsh-theme/master/my_agnoster.png)
+![screenshot of my changes](https://raw.githubusercontent.com/IIpepeII/agnoster-zsh-theme/master/my_agnoster_theme.png)
 
 # agnoster.zsh-theme
 
