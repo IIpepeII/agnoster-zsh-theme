@@ -1,4 +1,4 @@
-# After my changes
+# After my changes(IIpepeII)
 ![screenshot of my changes](https://raw.githubusercontent.com/IIpepeII/agnoster-zsh-theme/master/my_agnoster.png)
 
 # agnoster.zsh-theme
