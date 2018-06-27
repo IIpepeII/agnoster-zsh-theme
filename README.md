@@ -1,3 +1,6 @@
+# After my changes
+![screenshot of my changes](https://raw.githubusercontent.com/IIpepeII/agnoster-zsh-theme/master/my_agnoster.png)
+
 # agnoster.zsh-theme
 
 A ZSH theme optimized for people who use:
